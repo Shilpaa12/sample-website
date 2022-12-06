@@ -1,0 +1,47 @@
+.center1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(220, 230, 230);
+}
+
+
+
+.center2 {
+    text-align: center;
+}
+
+
+.totalcart {
+
+    border-radius: 12px;
+    align-content: center;
+    color: blue;
+    text-align: start;
+
+
+
+
+}
+
+.totalcart2 {
+    border: 1px rgb(255, 255, 255) rgb(22, 22, 22);
+    border-radius: 12px;
+    height: auto;
+    width: 30%;
+    background: rgb(234, 238, 236);
+    padding: 1rem;
+    margin-top:1rem;
+    background-color: rgb(199, 196, 194);
+
+}
+
+.total {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.main {
+    text-align: r;
+}

@@ -1,0 +1,27 @@
+
+
+
+.service{
+    text-align: center;
+    font-size: 25px;
+}
+
+.mainServices{
+    display:flex;
+    justify-content : space-between;
+    padding:0px 10%;
+}
+.total{
+    background-color:rgb(236, 172, 172);
+    color: rgb(10, 10, 10);
+    height: 800px;
+    margin-top: auto;
+    
+}
+.service develop{
+    display:flex;
+    justify-content : space-between;
+    padding:0px 10%;
+
+    
+}

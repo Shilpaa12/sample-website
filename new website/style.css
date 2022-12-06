@@ -1,0 +1,36 @@
+.listItemsAndHeader {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: rgb(235, 225, 225);
+    height: 100px;
+    
+    padding: 20px;
+
+}
+
+.listItems {
+    display: flex;
+   
+}
+
+.listItem {
+    padding: 20px;
+    color: white;
+
+}
+
+.logo {
+    width: 50px;
+    height: 60px;
+    margin-top: 15px;
+}
+
+.avengersText {
+    font-size: 70px;
+}
+
+.logoAndText {
+    display: flex;
+}
+
